@@ -1,2 +1,2 @@
 FROM php:latest
-COPY index.php /var/www/html
+COPY index.html /var/www/html
